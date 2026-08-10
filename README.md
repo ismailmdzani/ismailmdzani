@@ -92,5 +92,5 @@ Planned end-to-end Excel project covering data cleaning, analysis, PivotTables, 
 
 ## 📫 Connect with Me
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Ismail%20Md%20Zani-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ismail-md-zani-4b169d395/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Ismail%20Md%20Zani-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ismail-md-zani-4b169a395/)
 [![Email](https://img.shields.io/badge/Email-ismailmdzani2%40gmail.com-EA4335?style=flat&logo=gmail&logoColor=white)](mailto:ismailmdzani2@gmail.com)
