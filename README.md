@@ -45,7 +45,7 @@ Planned end-to-end Excel project covering data cleaning, analysis, PivotTables, 
 
 ## 🔬 Research & Publication
 
-- 🌧️ [**Interpolating Rainfall Data Trends for Pahang Area using Polynomial Regression**](https://semarakilmu.com.my/index.php/araset/article/view/292)
+- 📖 [**Interpolating Rainfall Data Trends for Pahang Area using Polynomial Regression**](https://semarakilmujournal.com.my/index.php/araset/article/view/292)
   - **First Author**
   - Analysed rainfall trends in Pahang, Malaysia using polynomial regression
   - Compared polynomial models of degrees 1–5 using quantitative model evaluation
@@ -56,7 +56,7 @@ Planned end-to-end Excel project covering data cleaning, analysis, PivotTables, 
 ## 🎓 Certifications
 
 ### Macquarie University
-- 📊 [**Excel Skills for Business Specialization**](https://www.coursera.org/account/accomplishments/specialization/BBQSJJE93SAD)
+- 📊 [**Excel Skills for Business Specialization**](https://www.coursera.org/account/accomplishments/specialization/BBQSJ7E97SAD)
 
 ### University of California, Davis
 - 🗄️ [**Learn SQL Basics for Data Science Specialization**](https://www.coursera.org/account/accomplishments/specialization/RYEC43V6ZDDN)
