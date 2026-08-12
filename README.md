@@ -26,10 +26,21 @@ Analysed a Brazilian e-commerce dataset to explore customer behaviour, sales per
 
 ---
 
-### 📈 Excel Data Analysis & Dashboard
-**Status:** Coming Soon
+### 📈 Maven Toys Sales & Inventory Dashboard
 
-Planned end-to-end Excel project covering data cleaning, analysis, PivotTables, dashboard design and business insights.
+[View Project](https://github.com/ismailmdzani/Maven-Toys-Sales-Inventory-Dashboard)
+
+**Tools:** Microsoft Excel • Data Model • DAX • PivotTables • PivotCharts
+
+Built an interactive Excel dashboard to analyse sales performance, profitability, product trends, store performance and inventory health.
+
+**Key areas explored:**
+
+* Monthly revenue and profit trends
+* Product category and product performance
+* Store and location performance
+* Inventory value and stock status
+* Interactive filtering using slicers and timeline
 
 ---
 
