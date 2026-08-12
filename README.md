@@ -44,6 +44,24 @@ Built an interactive Excel dashboard to analyse sales performance, profitability
 
 ---
 
+### ☎️ JPD Call Centre Performance Dashboard
+
+[View Project](https://github.com/ismailmdzani/JPD-Call-Centre-Performance-Dashboard)
+
+**Tools:** Microsoft Excel • Advanced Formulas • Named Ranges • PivotTables • Charts
+
+Completed an advanced coursework-based Excel dashboard analysing 46,380 call centre records to monitor operational KPIs, service targets and agent performance.
+
+**Key areas explored:**
+
+* Monthly call volume and service performance
+* Complaint rates and customer satisfaction
+* Call resolution and abandonment rates
+* Agent performance against operational targets
+* Interactive month selection and scrollable agent analysis
+
+---
+
 ## 🏆 Achievements
 
 - 🥉 **Bronze Award — IWP-IRC 2026**
