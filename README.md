@@ -62,6 +62,25 @@ Completed an advanced coursework-based Excel dashboard analysing 46,380 call cen
 
 ---
 
+### ⚙️ Weekly Timesheet VBA Automation
+
+[View Project](https://github.com/ismailmdzani/Weekly-Timesheet-VBA-Automation)
+
+**Tools:** Microsoft Excel • VBA • Excel Macros • Named Ranges • Formulas
+
+Completed a coursework-based Excel VBA project that automates weekly timesheet creation, daily pay calculations and weekend rates.
+
+**Key features:**
+
+* Creates a new weekly timesheet automatically
+* Collects the week-commencing date using an input box
+* Calculates weekday pay using a named hourly rate
+* Applies a 1.5× rate for Saturday and Sunday
+* Generates daily formulas and the weekly total
+* Runs through a worksheet button or keyboard shortcut
+
+---
+
 ## 🏆 Achievements
 
 - 🥉 **Bronze Award — IWP-IRC 2026**
